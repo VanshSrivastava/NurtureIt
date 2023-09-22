@@ -2,7 +2,7 @@
 # NurtureIt
 
 This project takes plant leaf images as input and can classify the disease of the plant.
-It uses a custom made CNN Model trained on a Dataset consisting of 9 varieties of plants and their various diseases. The models are saved and used by a Backend Built using Flask. It has UI built with HTML, CSS, Bootstrap. Combined togeter it serves a full stack web app.
+It uses a custom made CNN Model trained on a Dataset consisting of 9 varieties of plants and their various diseases. The models are saved and used by a Backend Built using Flask. It has UI built with HTML, CSS, Bootstrap. Combined together it serves a full stack web app.
  
 
 
